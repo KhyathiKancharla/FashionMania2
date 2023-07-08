@@ -1,7 +1,4 @@
-# **RTW Shop - eCommerce Site in Django Python**
 
-
-**Developed By Deeksha kushwaha**
 
 ## **Instructions**
 - Install the Requirements: pip install -r requirements.txt
@@ -11,10 +8,6 @@
 
 For Admin Account, please create one with superuser!
 
-------------------------------------------------------------
-- **Developed and Customized by:** Deeksha Kushwaha
-- **Published @:** [https://codeastro.com/ecommerce-site-in-python-django-with-source-code/]
-------------------------------------------------------------
 
 ## Admin Access
 - **Username:** admin
